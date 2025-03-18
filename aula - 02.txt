@@ -1,0 +1,110 @@
+1.
+<!DOCTYPE HTML>
+<html lang="Pt-Br">
+	<head>
+		<meta charset="UTF-8">
+		<title>		</title> 
+	</head> 
+	<body>
+	</body>
+</html>
+
+2. 
+<!DOCTYPE HTML> 
+<html lang="Pt-Br>
+	<head>
+		<meta charset="UTF-8>
+		<title> 	</title> 
+	</head>
+	<body> 
+	</body
+</html>
+
+3.
+<!DOCTYPE HTML> 
+<html lang="Pt-Br">
+	<head> 
+		<meta charset="UTF-8">
+		<title> 	</title> 
+	</head>
+	<body> 
+	</body>
+</html>
+
+4.
+<!DOCTYPE HTML>
+<hmtl lang="Pt-Br">
+	<head> 
+		<meta charset="UTF-8">
+		<title> 	</title>
+	</head>
+	<body> 
+	</body> 
+</html>
+
+5. 
+<!DOCTYPE HTML> 
+<html lang="Pt-Br">
+	<head>
+		<meta charset="UTF-8">
+		<title> 	</title> 
+	</head> 
+	<body> 
+	</body>
+</html>
+
+6.
+<!DOCTYPE HTML>
+<html lang="Pt-Br">
+        <head>
+               <meta charset="UTF-8">
+               <title>		</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+7.
+
+<!DOCTYPE HTML>
+<html lang="Pt-Br>
+	<head>
+		<meta charset="UTF-8">
+		<title>		</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+8.
+<!DOCTYPE HTML>
+<html lang="Pt-Br">
+ 	<head>
+		<meta charset="UTF-8">
+		<title>		</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+9.
+<!DOCTYPE HTML>
+<html lang="Pt-Br">
+ 	<head>
+		<meta charset="UTF-8">
+		<title>		</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+10.
+<!DOCTYPE HTML>
+<html lang="Pt-Br">
+ 	<head>
+		<meta charset="UTF-8">
+		<title>		</title>
+	</head>
+	<body>
+	</body>
+</html>				 
